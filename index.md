@@ -22,3 +22,6 @@ public int plagueDeaths(int population){
         } else return this.plagueDeaths = plagueDeaths;
     }
 ```
+- [ ] This is a list of To-Do's
+- [x] This item has been completed.
+- [ ] This item is not yet finished.
